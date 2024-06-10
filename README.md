@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel Mwendwa! 👋
 
-I'm an Actuarial Student with a passion for Java programming and web development. Welcome to my GitHub profile! Here, you'll find a collection of projects I've worked on, mostly centered around Java programming and  Data Analysis.
+I'm an Actuarial Student with a passion for Java programming. Welcome to my GitHub profile! Here, you'll find a collection of projects I've worked on, mostly centered around Java programming and  Data Analysis.
 
 ## About Me
 
