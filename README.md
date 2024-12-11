@@ -46,7 +46,7 @@ Feel free to explore these projects and provide feedback or contributions if you
 You can reach me through the following channels:
 
 - Email: coxward234@gmail.com
-- LinkedIn: www.linkedin.com/in/daniel-mwendwa-09a6b6236
+- LinkedIn: www.linkedin.com/in/daniel-mwendwa-kavangi
 
 Let's connect and chat about anything related to actuarial science, Java programming or any exciting tech topics!
 
